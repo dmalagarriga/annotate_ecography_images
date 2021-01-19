@@ -22,9 +22,9 @@ NUM_ATYPES = 15
 DEFAULT_FIG_MODE = "layout"
 annotation_colormap = px.colors.qualitative.Light24
 annotation_types = [
-    "BPD"
-    #"CLR",
-    #"NT"
+    "Head",
+    "Abdomen",
+    "Chest"
 ]
 DEFAULT_ATYPE = annotation_types[0]
 
